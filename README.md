@@ -1,6 +1,6 @@
 # **gpt-4o绘图指南及国内使用gpt4o方法：详细教程与案例分享【2025/04】**
 
-> 更新日期：2025-04-13   
+> 更新日期：2025-04-14
 
 今天我们一起来了解一下GPT-4o技术，这是一项由OpenAI开发的AI驱动绘图工具，正在图像创作领域掀起一场革命。借助GPT-4o的强大能力，它能够将我们的创意轻松转化为现实。不论你偏爱吉卜力风格的温馨画面，还是赛博朋克风的炫酷效果，gpt4o都能轻松实现。现在，就让我们一起来探索GPT-4o绘图的无限可能吧！
 
@@ -11,7 +11,7 @@
 
 | 网站 | 支持功能 |
 | --- | --- |
-| [https://chat.yixiaai.com](https://chat.yixiaai.com) | 支持GPT4o、GPT o1、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询 |
+| [https://chat.yixiaai.com](https://chat.yixiaai.com) | 支持GPT4o、GPT o1、GPT o3、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询 |
 | [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/) | 支持GPT4o、GPT-o3、GPT o1、DeepSeek满血版 |
 | [https://chat.lanjing.pro](https://chat.lanjing.pro) | 支持GPT全系列模型和DeepSeek R1满血版 |
 | 电脑客户端 | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.1_x64_zh-CN.zip) |
@@ -31,7 +31,7 @@
 ## **应用案例分享**
 4o绘图的实战案例丰富多彩，各种创意碰撞总能带来惊喜：
 1. **吉卜力风格转换**  
-  > 提示词：请帮我把这张图片转换为吉卜力风格  
+  > 提示词：请帮我把这张图片转换为吉卜力风格   
   
 ![gpt-4o 吉卜力风格](https://files.mdnice.com/user/75077/c2b539cf-4307-4bd5-aed4-9ba7e67dc9e1.png)
 
