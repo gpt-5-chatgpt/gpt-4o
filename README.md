@@ -1,6 +1,6 @@
 # **gpt-4o绘图指南及国内使用gpt4o方法：详细教程与案例分享【2025/04】**
 
-> 更新日期：2025-04-14
+> 更新日期：2025-04-15
 
 今天我们一起来了解一下GPT-4o技术，这是一项由OpenAI开发的AI驱动绘图工具，正在图像创作领域掀起一场革命。借助GPT-4o的强大能力，它能够将我们的创意轻松转化为现实。不论你偏爱吉卜力风格的温馨画面，还是赛博朋克风的炫酷效果，gpt4o都能轻松实现。现在，就让我们一起来探索GPT-4o绘图的无限可能吧！
 
@@ -11,7 +11,7 @@
 
 | 网站 | 支持功能 |
 | --- | --- |
-| [https://chat.yixiaai.com](https://chat.yixiaai.com) | 支持GPT4o、GPT o1、GPT o3、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询 |
+| [https://chat.yixiaai.com](https://chat.yixiaai.com) | 支持GPT4o 画图、GPT o1 mini、GPT o3、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询 |
 | [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/) | 支持GPT4o、GPT-o3、GPT o1、DeepSeek满血版 |
 | [https://chat.lanjing.pro](https://chat.lanjing.pro) | 支持GPT全系列模型和DeepSeek R1满血版 |
 | 电脑客户端 | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.1_x64_zh-CN.zip) |
@@ -38,14 +38,13 @@
 
 2. **Q版风格创作**  
   > 提示词：画一个写字楼，但是上班的都是Q版小猪，写字楼要有剖面图，是一个3D立体的，就像是大型3D游戏的高清质感  
-  ![gpt-4o绘图Q版风格写字楼](https://chat.yixiaai.com/docs/images/basic/4o-paint-qpig.jpg)  
 
   > 提示词：想象这个物品是巨人国消费，但由小人国制造的，小人国的流水线工人不仅有人，还有动物。制作物品的原材料也由动物提供，展示可爱工人忙碌场景，就像3A经营类游戏大作的画面。被制造的物品是：猪肉馅包子  
-  ![gpt 4o Q版风格](https://chat.yixiaai.com/docs/images/basic/4o-paint-qpig2.jpg)  
+![gpt4o](https://github.com/user-attachments/assets/5793826f-df4b-4b4a-9dd2-48a0bc42feab)
 
 3. **垫图Q版风格探索**  
   > 提示词：将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变  
-  ![gpt4o绘图Q版风格探索](https://chat.yixiaai.com/docs/images/basic/4o-paint-3d.png)
+![gpt-4o](https://github.com/user-attachments/assets/46017ae7-1c23-4d4b-905d-d703c6a9b8b6)
 
 ---
 
@@ -53,15 +52,15 @@
 除了以上案例，4o绘图还被广泛应用于其他领域：
 1. **英语闪卡设计**  
   > 提示词：请将以下单词绘制成卡通插画风格闪卡，包括红色苹果图案、笑脸女孩形象、橙色小猫、跑步男孩、蓝色圆形、四口之家合影、棕色书、笑脸太阳、双手合十女孩、抱球坐着男孩  
-  ![英语闪卡](https://chat.yixiaai.com/docs/images/basic/4o-paint-worldcard.png)  
+![gpt-4o](https://github.com/user-attachments/assets/637c7988-7494-4e99-89c3-dd50d41d7fbc)
 
 2. **毛绒风格渲染**  
   > 提示词：请将这个图像设计为毛绒风格，保持毛绒细腻、配色和形象一致  
-  ![毛绒风格图像](https://chat.yixiaai.com/docs/images/basic/4o-paint-nezha.png)  
+![gpt-4o](https://github.com/user-attachments/assets/5e57acc4-7e45-4f1e-9f9c-1834eb0783c8)
 
 3. **食谱信息图绘制**  
   > 提示词：创建奶油大蒜蘑菇意大利面的分步食谱信息图，自上而下视图，白色背景上的极简风格，成分标记照片，虚线显示工艺步骤，图片中字使用中文展示  
-  ![食谱信息图](https://chat.yixiaai.com/docs/images/basic/4o-paint-food.png)  
+![gpt-4o](https://github.com/user-attachments/assets/c9b2c691-59a2-4018-9def-5e149de20de9)
 
 提升作品质量的同时，记得在创作时使用具体的提示词，如gpt-4o、gpt4o、吉卜力风格等关键词都是你设计时的灵感来源哦！
 
