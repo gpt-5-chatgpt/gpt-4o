@@ -1,6 +1,6 @@
-# **gpt-4o绘图指南及国内使用gpt4o方法：详细教程与案例分享【2025/08】**
+# **gpt-4o绘图指南及国内使用gpt-4o方法：详细教程与案例分享【2025/09】**
 
-> 更新日期：2025-08-03
+> 更新日期：2025-09-19
 
 今天我们一起来了解一下GPT-4o技术，这是一项由OpenAI开发的AI驱动绘图工具，正在图像创作领域掀起一场革命。借助GPT-4o的强大能力，它能够将我们的创意轻松转化为现实。不论你偏爱吉卜力风格的温馨画面，还是赛博朋克风的炫酷效果，gpt4o都能轻松实现。现在，就让我们一起来探索GPT-4o绘图的无限可能吧！
 
@@ -11,8 +11,8 @@
 
 | 网站 | 支持功能 |
 | --- | --- |
-| [https://xsimplechat.com](https://xsimplechat.com) | 支持GPT4o 画图、GPT o1 mini、GPT o3、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询 |
-| [https://chat.lanjingai.org/](https://chat.lanjingai.org/) | 支持GPT4o、GPT-o3、GPT o1、DeepSeek满血版 |
+| [https://xsimplechat.com](https://xsimplechat.com) | 支持GPT4o 画图、GPT 5、GPT o3、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询 |
+| [https://ai.lanjingai.org/](https://ai.lanjingai.org/) | 支持GPT-5、GPT-o3、GPT o1、DeepSeek满血版 |
 | [https://chat.lanjing.pro](https://chat.lanjing.pro) | 支持GPT全系列模型和DeepSeek R1满血版 |
 | 电脑客户端 | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.1_x64_zh-CN.zip) |
 | Edge 浏览器插件 | [安装链接](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) |
